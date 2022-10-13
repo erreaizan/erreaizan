@@ -10,7 +10,7 @@ A little more about me...
 * :soccer: I´m a soccer referee
 * :desktop_computer: I liked technology
 * I consider myself friendly and fun :upside_down_face:
-
+* Last year I did an internship at a company called Freelan
 
 > Who does not risk
 
