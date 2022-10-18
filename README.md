@@ -12,7 +12,7 @@ A little more about me...
 * I consider myself friendly and fun :upside_down_face:
 * Last year I did an internship at a company called Freelan
 
-> Who does not risk
+> If you don't risk
 
 
 > Do not win
