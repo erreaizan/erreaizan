@@ -17,6 +17,9 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo '🚀 Deploying...'
+                sh 'docker rm -f test-jenkins || true'
+                sh ' docker build -t test test-jenkins .'
+                sh 'docker run -d -p 8080:8080 --name test-jenkins test-jenkins'
             }
         }
     }
